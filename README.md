@@ -1,2 +1,2 @@
-# Implementing_concurrency_in_C_
+# Implementing_concurrency_in_C
 Multitasking increases the efficiency of the CPU and utilizes resources in a better manner. Threads are the best way to implement multitasking. A process can contain more than one thread to implement multitasking.
